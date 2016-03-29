@@ -1,6 +1,7 @@
 public class Helper {
 
 	/* Variable Privada */
+	/* Un poco mas de comentarios*/
 	private int llamados;
 	
 	public Helper() {
