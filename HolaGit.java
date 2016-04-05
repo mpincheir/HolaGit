@@ -8,6 +8,8 @@ public class HolaGit {
 		helper.llamar();
 		System.out.println("Soy parte del tercer commit");
 		helper.llamar();
+		System.out.println("Soy parte del cuarto commit");
+		helper.llamar();
 		System.out.println("Total Llamados " + helper.getLlamados() );
 	}
 }
